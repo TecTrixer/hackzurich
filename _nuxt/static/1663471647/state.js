@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002Fhackzurich\u002F_nuxt\u002Fstatic\u002F1663471647",layout:"default",error:a,state:{req:{query:b,content:b}},serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Fhackzurich\u002F",assetsPath:"\u002Fhackzurich\u002F_nuxt\u002F",cdnURL:a}}}}(null,""));
